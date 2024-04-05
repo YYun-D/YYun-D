@@ -26,7 +26,7 @@
 #
 [![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=yund)](https://solved.ac/yund/)
 
-![YYun-D's GitHub stats](https://github-readme-stats.vercel.app/api?username=YYun-D&show_icons=true)
+[![YYun-D's GitHub stats](https://github-readme-stats.vercel.app/api?username=YYun-D&show_icons=true)](https://github.com/YYun-D)
 
 <!--
 **YYun-D/YYun-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
