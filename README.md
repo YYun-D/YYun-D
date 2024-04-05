@@ -24,7 +24,7 @@
 ![amazonaws](https://img.shields.io/badge/aws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white)
 
 #
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=yund)
+[![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=yund)](https://solved.ac/yund/)
 
 ![YYun-D's GitHub stats](https://github-readme-stats.vercel.app/api?username=YYun-D&show_icons=true)
 
