@@ -11,11 +11,13 @@
 ![Swift](https://img.shields.io/badge/Swift-F05138.svg?&style=for-the-badge&logo=Swift&logoColor=white)
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white)
 ![googlechrome](https://img.shields.io/badge/chrome%20extension-4285F4.svg?&style=for-the-badge&logo=googlechrome&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000.svg?&style=for-the-badge&logo=iOS&logoColor=white)
 
 ### DB
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?&style=for-the-badge&logo=SQLite&logoColor=white)
 
 ### Tools
 ![github](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
